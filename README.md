@@ -3,8 +3,8 @@ A blog app example using Express and React. Demonstrates use of microservices ar
 
 # Getting Started with the scripts
 
-In each of the directories- client, posts, and comments, you can run:
+n each of the directories- client, posts, and comments, you can run:
 
-### `npm start`
+### `npm install`, then `npm start`
 
 to start the frontend client and both backends.
